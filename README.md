@@ -23,12 +23,12 @@
 ---
 
 ### 👨‍💻: About Me :
-I am an aspiring Full Stack Developer <img src="https://media.giphy.com/media/hS42TuYYnANLFR9IRQ/giphy.gif" width="30"> from Mongolia.
-- :telescope: I'm learning Web Development and currently a student at National University of Mongolia.
+I am an aspiring Software Developer <img src="https://media.giphy.com/media/hS42TuYYnANLFR9IRQ/giphy.gif" width="30"> from Mongolia.
+- :telescope: I'm learning Software Development and currently a student at National University of Mongolia.
 
-- :seedling: Worked as an intern at two companies.
+- :seedling: Worked as an intern at three companies.
 
-- :zap: In my free time, I learn technologies and build projects.
+- :zap: Currently working at a startup company.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tsenguun-otgonbaatar-0b0094219)
 ---
