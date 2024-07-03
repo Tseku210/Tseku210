@@ -24,7 +24,7 @@
 
 ### 👨‍💻: About Me :
 I am an aspiring Software Developer <img src="https://media.giphy.com/media/hS42TuYYnANLFR9IRQ/giphy.gif" width="30"> from Mongolia.
-- :telescope: I'm learning Software Development and currently a student at National University of Mongolia.
+- :telescope: Just graduated National University of Mongolia with Software Engineering degree.
 
 - :seedling: Worked as an intern at three companies.
 
@@ -54,6 +54,11 @@ I am an aspiring Software Developer <img src="https://media.giphy.com/media/hS42
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 ---
+
+### My devcard
+<div>
+  <a href="https://app.daily.dev/tseku"><img src="https://api.daily.dev/devcards/v2/TBC8JYBNCNEY9FYFUeq5F.png?r=kri" width="356" alt="Tseku's Dev Card"/></a>
+</div>
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Tseku210&theme=dark)](https://git.io/streak-stats)  
