@@ -20,7 +20,7 @@
 
 ### 👨‍💻: About Me :
 A software engineer with a strong background in frontend development.
-- :telescope: CS Bacheler @ National University of Mongolia
+- :telescope: CS Bachelor @ National University of Mongolia
 
 - :zap: Currently working at a startup company.
 
