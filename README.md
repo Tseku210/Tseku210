@@ -24,6 +24,10 @@ A software engineer with a strong background in frontend development.
 
 - :zap: Currently working at a startup company.
 
+- :people_hugging: Love solving problems for people through technology.
+
+- :wrench: Love tinkering with developer tools.
+
 - :seedling: Looking for an *open-source* project to collab.
 ---
 
